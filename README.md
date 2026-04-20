@@ -61,6 +61,8 @@ Please open an issue to suggest refinements or additional plate models to suppor
 
 If you printed a plate and enjoy it, you can say thank you by buying me a coffee :)
 
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/fgpfgp)
+
 ## License
 
 Released under the [Creative Commons Attribution 4.0 International](LICENSE) license. You are free to print, share, remix, and use the plates — including commercially — provided you credit the project.
